@@ -1,0 +1,9 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+class Suite [[java : sweet.suites. Suite]]{
+
+}
+@enduml
